@@ -181,11 +181,12 @@ footer{
 
     .container{
         flex-direction: column;
+        margin-right: 10vw;
 }
 
 div{
     /* border-radius: 0px; */
-    width: 13rem;
+    width: 20rem;
     height: 35rem;
 }
 
