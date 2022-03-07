@@ -168,7 +168,7 @@ button:hover{
 footer{
     position: absolute;
     z-index: 999;
-    margin-top: 125vh;
+    margin-top: 200vh;
 }
 
 @media screen and (max-width: 375px){
@@ -224,8 +224,8 @@ footer{
     p, h1{
         line-height: 15px;
     }
+    footer{
+        margin-bottom: 50vh;
+    }
 }
-footer{
-    margin-bottom: 50vh;
-}
-}
+
