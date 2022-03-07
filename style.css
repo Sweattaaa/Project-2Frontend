@@ -216,3 +216,16 @@ footer{
     display: none;
 }
 }
+
+@media screen and (max-height:1080px) and (min-height:950px){
+    img{
+        margin-top: 2vh;
+    }
+    p, h1{
+        line-height: 15px;
+    }
+}
+footer{
+    margin-bottom: 50vh;
+}
+}
